@@ -1,0 +1,1 @@
+export const PAGE_INIT = '/shakespeare/v2/notes/8493282fe232/book';
